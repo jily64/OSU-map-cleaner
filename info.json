@@ -1,5 +1,5 @@
 {
-  "path": "path-to-songs-directory",
-  "clean_video": true,
+  "path": "C:/Users/User/AppData/Local/osu!/Songs",
+  "clean_video": false,
   "clean_similar_maps": true
 }
