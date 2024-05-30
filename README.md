@@ -1,7 +1,7 @@
 # OSU map cleaner
  Map cleaner for osu!
 
-Here is [Last Release](https://github.com/jily64/OSU-map-cleaner/releases/tag/v1.0.0).
+Here is [Last Release](https://github.com/jily64/OSU-map-cleaner/releases/tag/v1.1.0).
 
 # How to use:
 
