@@ -1,0 +1,5 @@
+{
+  "path": "path-to-songs-directory",
+  "clean_video": true,
+  "clean_similar_maps": true
+}
